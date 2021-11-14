@@ -1,5 +1,7 @@
 # readelf
 
+A simple implement of readelf with -h, -S, -l options.
+
 ## usage:
 
 ```sh
